@@ -1,6 +1,6 @@
 Autokey Cipher
 
--   A simple Autokey Cipher Program, providing encipher and decipher.
+-   A simple [Autokey_Cipher](https://en.wikipedia.org/wiki/Autokey_cipher) Program, providing encipher and decipher.
 -   C++ Language, Qt for GUI Design, Clang to compile.
 -   Including macOS and Windows.
 -   macOS vision
@@ -12,5 +12,3 @@ Autokey Cipher
         -   install gcc-4.8.0-qt-4.8.4-for-mingw32.dmg
         -   `/usr/local/gcc-4.8.0-qt-4.8.4-for-mingw32/win32-qt/bin/qmake Auto-Cipher.pro`  to make Makefile
         -   `make` get Auto-Cipher.exe
--   Reference:
-    -   ​
