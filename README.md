@@ -6,4 +6,4 @@ Some tiny tings.
 - Autokey_Cipher
   - Autokey_Cipher by Qt GUI (macOS / Windows)
 - TEST
-  - TEST CASE
+  - TEST CASE
